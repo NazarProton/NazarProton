@@ -13,7 +13,7 @@
 ![ReactJS](https://img.shields.io/badge/ReactJS-101e3f?style=for-the-badge&logo=React)
 ![Node.js](https://img.shields.io/badge/Node.js-101e3f?style=for-the-badge&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-101e3f?style=for-the-badge&logo=MySQL)
-![Avocode](https://img.shields.io/badge/VS_Code-101e3f?style=for-the-badge&logo=VisualStudioCode)
+![VS-Code](https://img.shields.io/badge/VS_Code-101e3f?style=for-the-badge&logo=VisualStudioCode)
 
 
 <!--
