@@ -19,9 +19,7 @@
 ![Java8](https://img.shields.io/badge/Java-101e3f?style=for-the-badge&logo=Java)
 ![MySQL](https://img.shields.io/badge/MySQL-101e3f?style=for-the-badge&logo=MySQL)
 ![CPanel](https://img.shields.io/badge/CPanel-101e3f?style=for-the-badge&logo=Cpanel)
-![AdobePhotoshop](https://img.shields.io/badge/Photoshop-101e3f?style=for-the-badge&logo=Adobe)
 ![Avocode](https://img.shields.io/badge/VS_Code-101e3f?style=for-the-badge&logo=VisualStudioCode)
-![IntelliJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-101e3f?style=for-the-badge&logo=)
 
 
 <!--
