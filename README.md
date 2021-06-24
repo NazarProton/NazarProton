@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Follow me:
+[![facebook](https://img.shields.io/badge/facebook-101e3f?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100003877936384)
+[![instagram](https://img.shields.io/badge/instagram-101e3f?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/proton_n/)
+
+
+
 <!--
 **NazarProton/NazarProton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
