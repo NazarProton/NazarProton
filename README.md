@@ -11,10 +11,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-101e3f?style=for-the-badge&logo=CSS3)
 ![JSON](https://img.shields.io/badge/JSON-101e3f?style=for-the-badge&logo=JSON)
 ![ReactJS](https://img.shields.io/badge/ReactJS-101e3f?style=for-the-badge&logo=React)
-![Angular](https://img.shields.io/badge/Angular-101e3f?style=for-the-badge&logo=Angular)
 ![Node.js](https://img.shields.io/badge/Node.js-101e3f?style=for-the-badge&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-101e3f?style=for-the-badge&logo=MySQL)
-![CPanel](https://img.shields.io/badge/CPanel-101e3f?style=for-the-badge&logo=Cpanel)
 ![Avocode](https://img.shields.io/badge/VS_Code-101e3f?style=for-the-badge&logo=VisualStudioCode)
 
 
