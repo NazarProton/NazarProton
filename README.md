@@ -1,6 +1,8 @@
 ### Hi there 👋
 ## I'am Front-End Developer
 
+[![Proton-cv](https://img.shields.io/badge/Husonkadcv.netlify.app-101e3f?style=for-the-badge&logo=&logoColor=B4068E)](https://nazarproton.github.io/resume/)
+
 ### Follow me:
 [![facebook](https://img.shields.io/badge/facebook-101e3f?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100003877936384)
 [![instagram](https://img.shields.io/badge/instagram-101e3f?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/proton_n/)
