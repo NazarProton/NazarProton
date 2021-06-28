@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## I'am Front-End Developer
 
+My CV is here👇👇👇
 [![Proton-cv](https://img.shields.io/badge/Proton_Nazar_CV-101e3f?style=for-the-badge&logo=&logoColor=B4068E)](https://nazarproton.github.io/resume/)
 
 ### Follow me:
