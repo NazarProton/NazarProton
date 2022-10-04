@@ -1,6 +1,9 @@
 ### Hi there 👋
 ## I'am Front-End Developer
 
+###My CV is here👇
+
+
 ### I've been learning js for more than 1.5 years
 ### work experience of half a year, you can view my petProjects on Git, and evaluate the quality of my code)
 
