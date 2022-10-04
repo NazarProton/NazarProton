@@ -19,7 +19,7 @@ React ,React-hooks, React-router-dom,Redux-thunk,Redux-saga,TypeScript,GitHub,Gi
 ![ReactJS](https://img.shields.io/badge/ReactJS-101e3f?style=for-the-badge&logo=React)
 ![Node.js](https://img.shields.io/badge/Node.js-101e3f?style=for-the-badge&logo=Node.js)
 ![VS-Code](https://img.shields.io/badge/VS_Code-101e3f?style=for-the-badge&logo=VisualStudioCode)
-![SCSS](https://img.shields.io/badge/SCSS-101e3f?style=for-the-badge&logo=SCSS)
+![SCSS-SASS](https://img.shields.io/badge/SCSS_SASS-101e3f?style=for-the-badge&logo=ScssSass)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-101e3f?style=for-the-badge&logo=Bootstrap)
 ![React-strap](https://img.shields.io/badge/React_strap-101e3f?style=for-the-badge&logo=ReactStrap)
 ![ANT DESIGN](https://img.shields.io/badge/Ant_Design-101e3f?style=for-the-badge&logo=AntDesign)
