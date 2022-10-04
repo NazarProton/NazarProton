@@ -16,7 +16,7 @@ React ,React-hooks, React-router-dom,Redux-thunk,Redux-saga,TypeScript,GitHub,Gi
 ![React](https://img.shields.io/badge/React-101e3f?style=for-the-badge&logo=React)
 ![React-Router-Dom](https://img.shields.io/badge/React_Router_Dom-101e3f?style=for-the-badge&logo=ReactRouterDom)
 ![JSON](https://img.shields.io/badge/JSON-101e3f?style=for-the-badge&logo=JSON)
-![Redux-Saga](https://img.shields.io/badge/Redux_Thunk-101e3f?style=for-the-badge&logo=reduxthunk)
+![Redux-Thunk](https://img.shields.io/badge/Redux_Thunk-101e3f?style=for-the-badge&logo=reduxsaga)
 ![Redux-Saga](https://img.shields.io/badge/Redux_Saga-101e3f?style=for-the-badge&logo=reduxsaga)
 ![Node.js](https://img.shields.io/badge/Node.js-101e3f?style=for-the-badge&logo=Node.js)
 ![VS-Code](https://img.shields.io/badge/VS_Code-101e3f?style=for-the-badge&logo=VisualStudioCode)
