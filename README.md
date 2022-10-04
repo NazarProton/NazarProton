@@ -26,6 +26,8 @@ React ,React-hooks, React-router-dom,Redux-thunk,Redux-saga,TypeScript,GitHub,Gi
 ![GitHub](https://img.shields.io/badge/GitHub-101e3f?style=for-the-badge&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/GitLab-101e3f?style=for-the-badge&logo=GitLab)
 ![Firebase](https://img.shields.io/badge/Firebase-101e3f?style=for-the-badge&logo=Firebase)
+![Axios](https://img.shields.io/badge/Axios-101e3f?style=for-the-badge&logo=Axios)
+
 
 
 
