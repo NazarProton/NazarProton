@@ -10,13 +10,12 @@ React ,React-hooks, React-router-dom,Redux-thunk,Redux-saga,TypeScript,GitHub,Gi
 
 ### Languages and tools:
 ![JavaScript](https://img.shields.io/badge/Java_Script-101e3f?style=for-the-badge&logo=javascript)
-![React-Router-Dom](https://img.shields.io/badge/ReactRouterDom-101e3f?style=for-the-badge&logo=ReactRouterDom)
+![React-Router-Dom](https://img.shields.io/badge/React_Router_Dom-101e3f?style=for-the-badge&logo=ReactRouterDom)
 ![HTML5](https://img.shields.io/badge/HTML5-101e3f?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-101e3f?style=for-the-badge&logo=CSS3)
 ![JSON](https://img.shields.io/badge/JSON-101e3f?style=for-the-badge&logo=JSON)
-![Redux-Thunk](https://img.shields.io/badge/-ReduxThunk-lightgrey)
-![Redux-Thunk](https://img.shields.io/badge/ReduxThunk-101e3f?style=for-the-badge&logo=ReduxThunk)
-![Redux-Saga](https://img.shields.io/badge/ReduxSaga-101e3f?style=for-the-badge&logo=ReduxSaga)
+![Redux-Thunk](https://img.shields.io/badge/Redux_Thunk-101e3f?style=for-the-badge&logo=ReduxThunk)
+![Redux-Saga](https://img.shields.io/badge/Redux_Saga-101e3f?style=for-the-badge&logo=ReduxSaga)
 ![ReactJS](https://img.shields.io/badge/ReactJS-101e3f?style=for-the-badge&logo=React)
 ![Node.js](https://img.shields.io/badge/Node.js-101e3f?style=for-the-badge&logo=Node.js)
 ![VS-Code](https://img.shields.io/badge/VS_Code-101e3f?style=for-the-badge&logo=VisualStudioCode)
