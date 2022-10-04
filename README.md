@@ -1,14 +1,10 @@
 ### Hi there 👋
 ## I'am Front-End Developer
 
-## My Stack
-React ,React-hooks, React-router-dom,Redux-thunk,Redux-saga,TypeScript,GitHub,GitLab,Bootstrap ,Ant-Design, react-Strap,React-bootstrap,Formik,protected-routes,authorization,Axios , a project using these technologies is on my gitHub with a link to Heroku
+##I've been learning js for more than 1.5 years
+##work experience of half a year, you can view my petProjects on Git, and evaluate the quality of my code)
 
-### Follow me:
-[![facebook](https://img.shields.io/badge/facebook-101e3f?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100003877936384)
-[![instagram](https://img.shields.io/badge/instagram-101e3f?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/proton_n/)
-
-### Languages and tools:
+##№ My Stack and tools:
 ![HTML5](https://img.shields.io/badge/HTML5-101e3f?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-101e3f?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/Java_Script-101e3f?style=for-the-badge&logo=javascript)
@@ -30,6 +26,10 @@ React ,React-hooks, React-router-dom,Redux-thunk,Redux-saga,TypeScript,GitHub,Gi
 ![Axios](https://img.shields.io/badge/Axios-101e3f?style=for-the-badge&logo=Axios)
 ![Formik](https://img.shields.io/badge/Formik-101e3f?style=for-the-badge&logo=Formik)
 
+### Follow me:
+[![facebook](https://img.shields.io/badge/facebook-101e3f?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100003877936384)
+[![instagram](https://img.shields.io/badge/instagram-101e3f?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/proton_n/)
+[![telegram](https://img.shields.io/badge/telegram-101e3f?style=for-the-badge&logo=telegram&logoColor=B4068E)](https://t.me/proton_n)
 
 
 
