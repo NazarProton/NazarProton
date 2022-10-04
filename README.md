@@ -1,10 +1,10 @@
 ### Hi there 👋
 ## I'am Front-End Developer
 
-##I've been learning js for more than 1.5 years
-##work experience of half a year, you can view my petProjects on Git, and evaluate the quality of my code)
+### I've been learning js for more than 1.5 years
+### work experience of half a year, you can view my petProjects on Git, and evaluate the quality of my code)
 
-##№ My Stack and tools:
+## My Stack and tools:
 ![HTML5](https://img.shields.io/badge/HTML5-101e3f?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-101e3f?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/Java_Script-101e3f?style=for-the-badge&logo=javascript)
