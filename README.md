@@ -13,7 +13,7 @@ React ,React-hooks, React-router-dom,Redux-thunk,Redux-saga,TypeScript,GitHub,Gi
 ![CSS3](https://img.shields.io/badge/CSS3-101e3f?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/Java_Script-101e3f?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Type_Script-101e3f?style=for-the-badge&logo=typescript)
-![ReactJS](https://img.shields.io/badge/ReactJS-101e3f?style=for-the-badge&logo=React)
+![React](https://img.shields.io/badge/React-101e3f?style=for-the-badge&logo=React)
 ![React-Router-Dom](https://img.shields.io/badge/React_Router_Dom-101e3f?style=for-the-badge&logo=ReactRouterDom)
 ![JSON](https://img.shields.io/badge/JSON-101e3f?style=for-the-badge&logo=JSON)
 ![Redux-Thunk](https://img.shields.io/badge/Redux_Thunk-101e3f?style=for-the-badge&logo=ReduxThunk)
