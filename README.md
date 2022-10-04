@@ -30,7 +30,7 @@
 [![facebook](https://img.shields.io/badge/facebook-101e3f?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100003877936384)
 [![instagram](https://img.shields.io/badge/instagram-101e3f?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/proton_n/)
 [![telegram](https://img.shields.io/badge/telegram-101e3f?style=for-the-badge&logo=telegram&logoColor=B4068E)](https://t.me/proton_n)
-[![gmail](https://img.shields.io/badge/gmail-101e3f?style=for-the-badge&logo=gmail&logoColor=B4068E)](nproton2012@gmail.com)
+[![gmail](https://img.shields.io/badge/gmail-101e3f?style=for-the-badge&logo=gmail&logoColor=B4068E)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNpzvFFJGdbJFwJjnZPtkGTrVmlxFTpKTVPhhjCBhcRshTTtvBrgxGgNNfWzzmWMjMJfg)
 
 
 
