@@ -12,11 +12,12 @@ React ,React-hooks, React-router-dom,Redux-thunk,Redux-saga,TypeScript,GitHub,Gi
 ![HTML5](https://img.shields.io/badge/HTML5-101e3f?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-101e3f?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/Java_Script-101e3f?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/Type_Script-101e3f?style=for-the-badge&logo=typescript)
+![ReactJS](https://img.shields.io/badge/ReactJS-101e3f?style=for-the-badge&logo=React)
 ![React-Router-Dom](https://img.shields.io/badge/React_Router_Dom-101e3f?style=for-the-badge&logo=ReactRouterDom)
 ![JSON](https://img.shields.io/badge/JSON-101e3f?style=for-the-badge&logo=JSON)
 ![Redux-Thunk](https://img.shields.io/badge/Redux_Thunk-101e3f?style=for-the-badge&logo=ReduxThunk)
 ![Redux-Saga](https://img.shields.io/badge/Redux_Saga-101e3f?style=for-the-badge&logo=ReduxSaga)
-![ReactJS](https://img.shields.io/badge/ReactJS-101e3f?style=for-the-badge&logo=React)
 ![Node.js](https://img.shields.io/badge/Node.js-101e3f?style=for-the-badge&logo=Node.js)
 ![VS-Code](https://img.shields.io/badge/VS_Code-101e3f?style=for-the-badge&logo=VisualStudioCode)
 ![SCSS-SASS](https://img.shields.io/badge/SCSS_SASS-101e3f?style=for-the-badge&logo=ScssSass)
@@ -27,6 +28,7 @@ React ,React-hooks, React-router-dom,Redux-thunk,Redux-saga,TypeScript,GitHub,Gi
 ![GitLab](https://img.shields.io/badge/GitLab-101e3f?style=for-the-badge&logo=GitLab)
 ![Firebase](https://img.shields.io/badge/Firebase-101e3f?style=for-the-badge&logo=Firebase)
 ![Axios](https://img.shields.io/badge/Axios-101e3f?style=for-the-badge&logo=Axios)
+![Formik](https://img.shields.io/badge/Formik-101e3f?style=for-the-badge&logo=Formik)
 
 
 
