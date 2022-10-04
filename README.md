@@ -23,6 +23,9 @@ React ,React-hooks, React-router-dom,Redux-thunk,Redux-saga,TypeScript,GitHub,Gi
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-101e3f?style=for-the-badge&logo=Bootstrap)
 ![React-strap](https://img.shields.io/badge/React_strap-101e3f?style=for-the-badge&logo=ReactStrap)
 ![ANT DESIGN](https://img.shields.io/badge/Ant_Design-101e3f?style=for-the-badge&logo=AntDesign)
+![GitHub](https://img.shields.io/badge/GitHub-101e3f?style=for-the-badge&logo=GitHub)
+![GitLab](https://img.shields.io/badge/GitLab-101e3f?style=for-the-badge&logo=GitLab)
+
 
 
 
