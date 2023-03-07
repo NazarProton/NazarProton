@@ -15,6 +15,11 @@
 ![TypeScript](https://img.shields.io/badge/Type_Script-101e3f?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-101e3f?style=for-the-badge&logo=React)
 ![React-Router-Dom](https://img.shields.io/badge/React_Router_Dom-101e3f?style=for-the-badge&logo=React)
+![Next](https://img.shields.io/badge/Next-101e3f?style=for-the-badge&logo=Next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-101e3f?style=for-the-badge&logo=TailwindCss)
+![Metamask](https://img.shields.io/badge/Metamask.js-101e3f?style=for-the-badge&logo=Metamask.js)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-101e3f?style=for-the-badge&logo=EthersJs)
+![Chart.js](https://img.shields.io/badge/Chart.js-101e3f?style=for-the-badge&logo=Chart.js)
 ![JSON](https://img.shields.io/badge/JSON-101e3f?style=for-the-badge&logo=JSON)
 ![Redux-Thunk](https://img.shields.io/badge/Redux_Thunk-101e3f?style=for-the-badge&logo=reduxsaga)
 ![Redux-Saga](https://img.shields.io/badge/Redux_Saga-101e3f?style=for-the-badge&logo=reduxsaga)
@@ -28,11 +33,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-101e3f?style=for-the-badge&logo=GitLab)
 ![Firebase](https://img.shields.io/badge/Firebase-101e3f?style=for-the-badge&logo=Firebase)
 ![Axios](https://img.shields.io/badge/Axios-101e3f?style=for-the-badge&logo=Axios)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-101e3f?style=for-the-badge&logo=EthersJs)
-![Chart.js](https://img.shields.io/badge/Chart.js-101e3f?style=for-the-badge&logo=Chart.js)
-![Next](https://img.shields.io/badge/Next-101e3f?style=for-the-badge&logo=Next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-101e3f?style=for-the-badge&logo=TailwindCss)
-![Metamask](https://img.shields.io/badge/Metamask.js-101e3f?style=for-the-badge&logo=Metamask.js)
+
 
 ### Follow me:
 [![facebook](https://img.shields.io/badge/facebook-101e3f?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100003877936384)
