@@ -27,7 +27,7 @@
 ![VS-Code](https://img.shields.io/badge/VS_Code-101e3f?style=for-the-badge&logo=VisualStudioCode)
 ![SCSS-SASS](https://img.shields.io/badge/SCSS_SASS-101e3f?style=for-the-badge&logo=Sass)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-101e3f?style=for-the-badge&logo=Bootstrap)
-![React-strap](https://img.shields.io/badge/React_strap-101e3f?style=for-the-badge&logo=ReactStrap)
+![React-strap](https://img.shields.io/badge/Reactstrap-101e3f?style=for-the-badge&logo=Reactstrap)
 ![ANT DESIGN](https://img.shields.io/badge/Ant_Design-101e3f?style=for-the-badge&logo=AntDesign)
 ![GitHub](https://img.shields.io/badge/GitHub-101e3f?style=for-the-badge&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/GitLab-101e3f?style=for-the-badge&logo=GitLab)
