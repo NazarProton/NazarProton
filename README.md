@@ -28,11 +28,11 @@
 ![GitLab](https://img.shields.io/badge/GitLab-101e3f?style=for-the-badge&logo=GitLab)
 ![Firebase](https://img.shields.io/badge/Firebase-101e3f?style=for-the-badge&logo=Firebase)
 ![Axios](https://img.shields.io/badge/Axios-101e3f?style=for-the-badge&logo=Axios)
-![Ethers.js](https://img.shields.io/badge/EthersJs-101e3f?style=for-the-badge&logo=EthersJs)
-![Chart.js](https://img.shields.io/badge/ChartJS-101e3f?style=for-the-badge&logo=ChartJs)
-![Next.js](https://img.shields.io/badge/NextJs-101e3f?style=for-the-badge&logo=NextJs)
+![Ethers.js](https://img.shields.io/badge/Ethers-101e3f?style=for-the-badge&logo=Ethers)
+![Chart.js](https://img.shields.io/badge/Chart-101e3f?style=for-the-badge&logo=Chart)
+![Next.js](https://img.shields.io/badge/Next-101e3f?style=for-the-badge&logo=Next)
 ![Tailwind](https://img.shields.io/badge/Tailwind-101e3f?style=for-the-badge&logo=Tailwind)
-![Metamask.js](https://img.shields.io/badge/MetamaskJs-101e3f?style=for-the-badge&logo=MetamaskJs)
+![Metamask.js](https://img.shields.io/badge/Metamask-101e3f?style=for-the-badge&logo=Metamask)
 
 ### Follow me:
 [![facebook](https://img.shields.io/badge/facebook-101e3f?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100003877936384)
