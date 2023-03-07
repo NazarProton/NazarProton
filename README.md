@@ -29,7 +29,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-101e3f?style=for-the-badge&logo=Firebase)
 ![Axios](https://img.shields.io/badge/Axios-101e3f?style=for-the-badge&logo=Axios)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-101e3f?style=for-the-badge&logo=Ethers.js)
-![Chart](https://img.shields.io/badge/Chart-101e3f?style=for-the-badge&logo=Chart.js)
+![Chart.js](https://img.shields.io/badge/Chart-101e3f?style=for-the-badge&logo=Chart.js)
 ![Next](https://img.shields.io/badge/Next-101e3f?style=for-the-badge&logo=Next.js)
 ![Tailwind](https://img.shields.io/badge/Tailwind-101e3f?style=for-the-badge&logo=Tailwind.css)
 ![Metamask](https://img.shields.io/badge/Metamask-101e3f?style=for-the-badge&logo=Metamask.js)
