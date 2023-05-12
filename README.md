@@ -33,6 +33,13 @@
 ![GitLab](https://img.shields.io/badge/GitLab-101e3f?style=for-the-badge&logo=GitLab)
 ![Firebase](https://img.shields.io/badge/Firebase-101e3f?style=for-the-badge&logo=Firebase)
 ![Axios](https://img.shields.io/badge/Axios-101e3f?style=for-the-badge&logo=Axios)
+![Swagger](https://img.shields.io/badge/Swagger-101e3f?style=for-the-badge&logo=Swagger)
+![React-Countdown](https://img.shields.io/badge/React_Countdown-101e3f?style=for-the-badge&logo=React_Countdown)
+![Headlessui](https://img.shields.io/badge/Headlessui-101e3f?style=for-the-badge&logo=Headlessui)
+![React-Swipeable](https://img.shields.io/badge/React_Swipeable-101e3f?style=for-the-badge&logo=React_Swipeable)
+![React-Toastify](https://img.shields.io/badge/React_Toastify-101e3f?style=for-the-badge&logo=React_Toastify)
+![CSS-Animations](https://img.shields.io/badge/CSS-Animations-101e3f?style=for-the-badge&logo=CSS-Animations)
+
 
 
 ### Follow me:
