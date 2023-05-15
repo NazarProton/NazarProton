@@ -6,7 +6,7 @@
 
 
 ### I've been learning js for more than 2 years
-### one year work experience, you can view my petProjects on Git, and evaluate the quality of my code)
+### 1 year work experience, you can view my work and petProjects on Git, and evaluate the quality of my code)
 
 ## My Stack and tools:
 ![HTML5](https://img.shields.io/badge/HTML5-101e3f?style=for-the-badge&logo=html5)
