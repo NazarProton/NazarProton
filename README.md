@@ -5,8 +5,8 @@
 [![Proton-cv](https://img.shields.io/badge/Proton_Nazar_CV-101e3f?style=for-the-badge&logo=&logoColor=B4068E)](https://nazarproton.github.io/resume/)
 
 
-### I've been learning js for more than 2 years
-### 1 year work experience, you can view my work and petProjects on Git, and evaluate the quality of my code)
+### I've been learning js for more than 4 years
+### 2.8 year work experience, you can view my work and petProjects on Git, and evaluate the quality of my code)
 
 ## My Stack and tools:
 ![HTML5](https://img.shields.io/badge/HTML5-101e3f?style=for-the-badge&logo=html5)
@@ -42,7 +42,7 @@
 
 
 
-### Follow me:
+### Follow or contact me:
 [![facebook](https://img.shields.io/badge/facebook-101e3f?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100003877936384)
 [![instagram](https://img.shields.io/badge/instagram-101e3f?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/proton_n/)
 [![telegram](https://img.shields.io/badge/telegram-101e3f?style=for-the-badge&logo=telegram&logoColor=B4068E)](https://t.me/proton_n)
