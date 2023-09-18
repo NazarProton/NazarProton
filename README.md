@@ -17,7 +17,6 @@
 ![React-Router-Dom](https://img.shields.io/badge/React_Router_Dom-101e3f?style=for-the-badge&logo=React)
 ![React Native](https://img.shields.io/badge/React_Native-101e3f?style=for-the-badge&logo=react)
 ![Vue.js](https://img.shields.io/badge/Vue.js-101e3f?style=for-the-badge&logo=vue.js)
-![Vue.js](https://img.shields.io/badge/Vue.js-101e3f?style=for-the-badge&logo=vue.js)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-101e3f?style=for-the-badge&logo=nuxt.js)
 ![Pinia](https://img.shields.io/badge/Pinia-101e3f?style=for-the-badge&logo=vue.js)
 ![Next](https://img.shields.io/badge/Next-101e3f?style=for-the-badge&logo=Next.js)
