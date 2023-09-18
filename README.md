@@ -21,7 +21,6 @@
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-101e3f?style=for-the-badge&logo=nuxt.js)
 ![Pinia](https://img.shields.io/badge/Pinia-101e3f?style=for-the-badge&logo=vue.js)
 ![Next](https://img.shields.io/badge/Next-101e3f?style=for-the-badge&logo=Next.js)
-![React-Native](https://img.shields.io/badge/React-Native-101e3f?style=for-the-badge&logo=React-Native.js)
 ![Tailwind](https://img.shields.io/badge/Tailwind-101e3f?style=for-the-badge&logo=TailwindCss)
 ![Metamask](https://img.shields.io/badge/Metamask.js-101e3f?style=for-the-badge&logo=Metamask.js)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-101e3f?style=for-the-badge&logo=EthersJs)
