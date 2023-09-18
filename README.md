@@ -16,7 +16,7 @@
 ![React](https://img.shields.io/badge/React-101e3f?style=for-the-badge&logo=React)
 ![React-Router-Dom](https://img.shields.io/badge/React_Router_Dom-101e3f?style=for-the-badge&logo=React)
 ![Vue.js](https://img.shields.io/badge/Vue.js-101e3f?style=for-the-badge&logo=vue.js)
-![Vue](https://img.shields.io/badge/Vue-101e3f?style=for-the-badge&logo=Vue)
+![Vue.js](https://img.shields.io/badge/Vue.js-101e3f?style=for-the-badge&logo=vue.js)
 ![Nuxt](https://img.shields.io/badge/Nuxt-101e3f?style=for-the-badge&logo=Nuxt)
 ![Pinia](https://img.shields.io/badge/Pinia-101e3f?style=for-the-badge&logo=Pinia)
 ![Next](https://img.shields.io/badge/Next-101e3f?style=for-the-badge&logo=Next.js)
