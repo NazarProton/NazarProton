@@ -43,6 +43,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-101e3f?style=for-the-badge&logo=Swagger)
 ![React-Countdown](https://img.shields.io/badge/React_Countdown-101e3f?style=for-the-badge&logo=React_Countdown)
 ![Headlessui](https://img.shields.io/badge/Headlessui-101e3f?style=for-the-badge&logo=Headlessui)
+![Material.ui](https://img.shields.io/badge/Material.ui-101e3f?style=for-the-badge&logo=Material.ui)
 ![React-Swipeable](https://img.shields.io/badge/React_Swipeable-101e3f?style=for-the-badge&logo=React_Swipeable)
 ![React-Toastify](https://img.shields.io/badge/React_Toastify-101e3f?style=for-the-badge&logo=React_Toastify)
 ![Css-Animations](https://img.shields.io/badge/Css_Animations-101e3f?style=for-the-badge&logo=Css_Animations)
