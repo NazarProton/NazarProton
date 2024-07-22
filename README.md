@@ -46,6 +46,12 @@
 ![React-Swipeable](https://img.shields.io/badge/React_Swipeable-101e3f?style=for-the-badge&logo=React_Swipeable)
 ![React-Toastify](https://img.shields.io/badge/React_Toastify-101e3f?style=for-the-badge&logo=React_Toastify)
 ![Css-Animations](https://img.shields.io/badge/Css_Animations-101e3f?style=for-the-badge&logo=Css_Animations)
+![Ts-Particles](https://img.shields.io/badge/Ts_Particles-101e3f?style=for-the-badge&logo=Ts_Particles)
+![Spline](https://img.shields.io/badge/Spline-101e3f?style=for-the-badge&logo=Spline)
+![Fp-Ts](https://img.shields.io/badge/Fp_Ts-101e3f?style=for-the-badge&logo=Fp_ts)
+
+
+
 
 
 
