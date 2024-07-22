@@ -5,7 +5,6 @@
 [![Proton-cv](https://img.shields.io/badge/Proton_Nazar_CV-101e3f?style=for-the-badge&logo=&logoColor=B4068E)](https://nazarproton.github.io/resume/)
 
 
-### I've been learning JS for more than 3 years
 ### 3+ years of work experience, you can view my work and pet projects on Git, and evaluate the quality of my code)
 
 ## My Stack and tools:
