@@ -5,7 +5,7 @@
 [![Proton-cv](https://img.shields.io/badge/Proton_Nazar_CV-101e3f?style=for-the-badge&logo=&logoColor=B4068E)](https://nazarproton.github.io/resume/)
 
 
-### 3+ years of work experience, you can view my work and pet projects on Git, and evaluate the quality of my code)
+### 4+ years of work experience, you can view my work and pet projects on Git, and evaluate the quality of my code)
 
 ## My Stack and tools:
 ![HTML5](https://img.shields.io/badge/HTML5-101e3f?style=for-the-badge&logo=html5)
